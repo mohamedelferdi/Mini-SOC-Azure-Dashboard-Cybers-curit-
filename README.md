@@ -19,7 +19,6 @@
 10. [Étape 8 — (Avancé) Automatiser la réponse aux incidents](#-étape-8--avancé-automatiser-la-réponse-aux-incidents)
 11. [Résultat final attendu](#-résultat-final-attendu)
 12. [Dépannage fréquent](#-dépannage-fréquent)
-13. [Description CV](#-description-cv)
 
 ---
 
