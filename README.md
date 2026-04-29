@@ -1,7 +1,5 @@
 # 🛡️ Azure Cybersecurity Dashboard — Mini SOC Cloud
 
-> **Niveau** : Débutant → Intermédiaire  
-> **Durée estimée** : 4 à 6 heures  
 > **Technologies** : Microsoft Azure · Linux · Fail2ban · Azure Monitor · Microsoft Sentinel · Power BI  
 > **Objectif** : Construire un mini SOC (Security Operations Center) dans le cloud Azure
 
