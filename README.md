@@ -616,20 +616,6 @@ sudo fail2ban-client status sshd
 logger -p auth.warning "Test log - tentative connexion suspecte"
 ```
 
----
-
-## 💼 Description CV
-
-```
-Conception et déploiement d'un système de surveillance cybersécurité cloud
-sur Microsoft Azure, comprenant :
-- Collecte et centralisation des logs Linux via Azure Monitor et Log Analytics
-- Intégration SIEM avec Microsoft Sentinel (règles KQL de détection des menaces)
-- Visualisation des incidents de sécurité via Azure Workbooks et Power BI
-- Automatisation de la réponse aux incidents via Logic Apps (Playbooks)
-→ Simulation d'un mini SOC (Security Operations Center) en environnement cloud.
-```
-
 **🧠 Compétences démontrées :** Cloud Azure · Cybersécurité (SIEM) · Linux · KQL · Power BI · DevSecOps
 
 ---
